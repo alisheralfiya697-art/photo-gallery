@@ -1,0 +1,6 @@
+{
+  "name": "Photo Gallery",
+  "description": "A beginner-friendly responsive photo gallery featuring real-time author search, custom hooks, and persistent favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
